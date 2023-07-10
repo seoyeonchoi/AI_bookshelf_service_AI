@@ -1,0 +1,6 @@
+nest-asyncio
+pyngrok
+ultralytics
+opencv-contrib-python
+google-cloud-vision
+flask_cors
